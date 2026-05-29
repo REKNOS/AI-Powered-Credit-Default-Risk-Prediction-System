@@ -1,4 +1,4 @@
-# AI-Powered Credit Default Risk Prediction System Using Machine Learning and Deep Learning
+# AI-Powered Credit Default Risk Prediction Using Machine Learning and Neural Network Techniques
 
 ## Project Overview
 This project develops an AI-powered system capable of predicting customer credit default risk using machine learning and deep learning techniques.
@@ -12,7 +12,7 @@ This project develops an AI-powered system capable of predicting customer credit
 ## Datasets
 1. Taiwan Credit Default Dataset(https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients)
 2. German Credit Risk Dataset(https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data)
-
+   
 ## Technologies Used
 - Python
 - Scikit-learn
@@ -34,7 +34,11 @@ This project develops an AI-powered system capable of predicting customer credit
 
 ## Team Members
 Aryan Sonker
-
+sireesha Bandi
+Mohammed Ameenulla Kolthodi
+Iswarya lahari kola
+Lahari Yanamandela
+Yogeshwaran
 
 ## GitHub Workflow
 - Branch-based development
