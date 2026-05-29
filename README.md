@@ -33,12 +33,12 @@ This project develops an AI-powered system capable of predicting customer credit
 - Hybrid Ensemble Model
 
 ## Team Members
--Aryan Sonker
--sireesha Bandi
--Mohammed Ameenulla Kolthodi
--Iswarya lahari kola
--Lahari Yanamandela
--Yogeshwaran
+- Aryan Sonker
+- sireesha Bandi
+- Mohammed Ameenulla Kolthodi
+- Iswarya lahari kola
+- Lahari Yanamandela
+- Yogeshwaran
 
 ## GitHub Workflow
 - Branch-based development
